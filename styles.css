@@ -1,0 +1,32 @@
+.btn-success {
+    background-color: dodgerblue;
+    border-color: dodgerblue;
+}
+
+.btn-success:hover {
+    background-color: deepskyblue;
+    border-color: deepskyblue;
+}
+
+.carousel {
+    width: 900px;  
+    margin: auto; 
+}
+
+.gallery h3 {
+margin: auto;
+}
+
+.gallery img {
+	width:100%;
+	margin-bottom:40px;
+    padding: 50px;
+	opacity:0.6;
+
+	-webkit-transition:opacity 200ms ease;
+	transition:opacity 200ms ease;
+}
+
+.gallery img:hover {
+	opacity:1;
+}
