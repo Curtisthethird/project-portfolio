@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-01T22:08:49.201Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="4pFoWg6PAatPVvxMyk2s" version="18.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-01T22:12:08.712Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="o_AgIko6cwUhuqU94urz" version="18.2.0" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1406" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,7 +20,7 @@
           <mxGeometry x="270" y="60" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="R9qPwhMyAJb9IdS8MChw-7" value="Nav Bar&amp;nbsp;&lt;br&gt;Home tab&amp;nbsp;&lt;br&gt;Photo gallery Tab&lt;br&gt;Booking Tab&lt;br&gt;" style="whiteSpace=wrap;html=1;rounded=0;sketch=0;hachureGap=4;" vertex="1" parent="1">
-          <mxGeometry x="290" y="170" width="120" height="70" as="geometry" />
+          <mxGeometry x="294" y="170" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="R9qPwhMyAJb9IdS8MChw-10" value="" style="edgeStyle=none;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="R9qPwhMyAJb9IdS8MChw-9" target="R9qPwhMyAJb9IdS8MChw-9">
           <mxGeometry relative="1" as="geometry" />
@@ -28,20 +28,54 @@
         <mxCell id="R9qPwhMyAJb9IdS8MChw-9" value="Multi column layout&amp;nbsp;&lt;br&gt;Photos of previous works" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;hachureGap=4;" vertex="1" parent="1">
           <mxGeometry x="270" y="260" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="R9qPwhMyAJb9IdS8MChw-13" value="" style="edgeStyle=none;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="R9qPwhMyAJb9IdS8MChw-11" target="R9qPwhMyAJb9IdS8MChw-12">
+        <mxCell id="R9qPwhMyAJb9IdS8MChw-13" value="" style="edgeStyle=none;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;targetPerimeterSpacing=8;startArrow=none;" edge="1" parent="1" source="R9qPwhMyAJb9IdS8MChw-16" target="R9qPwhMyAJb9IdS8MChw-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R9qPwhMyAJb9IdS8MChw-11" value="Booking Page&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;hachureGap=4;" vertex="1" parent="1">
           <mxGeometry x="460" y="60" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="R9qPwhMyAJb9IdS8MChw-12" value="Forum for booking photo shoot appointments" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;hachureGap=4;" vertex="1" parent="1">
-          <mxGeometry x="460" y="165" width="160" height="80" as="geometry" />
+          <mxGeometry x="460" y="290" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="R9qPwhMyAJb9IdS8MChw-14" value="Carousel (Photos of recent work)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;hachureGap=4;" vertex="1" parent="1">
           <mxGeometry x="65" y="270" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="R9qPwhMyAJb9IdS8MChw-15" value="About Us section with a bio of the photographer" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;hachureGap=4;" vertex="1" parent="1">
           <mxGeometry x="65" y="380" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R9qPwhMyAJb9IdS8MChw-16" value="Nav Bar&amp;nbsp;&lt;br&gt;Home tab&amp;nbsp;&lt;br&gt;Photo gallery Tab&lt;br&gt;Booking Tab&lt;br&gt;" style="whiteSpace=wrap;html=1;rounded=0;sketch=0;hachureGap=4;" vertex="1" parent="1">
+          <mxGeometry x="480" y="160" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="R9qPwhMyAJb9IdS8MChw-17" value="" style="edgeStyle=none;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startSize=14;endSize=14;sourcePerimeterSpacing=8;" edge="1" parent="1" source="R9qPwhMyAJb9IdS8MChw-11" target="R9qPwhMyAJb9IdS8MChw-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="148" as="sourcePoint" />
+            <mxPoint x="540" y="292" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R9qPwhMyAJb9IdS8MChw-23" value="" style="edgeStyle=none;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="R9qPwhMyAJb9IdS8MChw-19" target="R9qPwhMyAJb9IdS8MChw-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R9qPwhMyAJb9IdS8MChw-19" value="Anchor tags added to navigate through web pages" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;hachureGap=4;" vertex="1" parent="1">
+          <mxGeometry x="270" y="470" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="R9qPwhMyAJb9IdS8MChw-24" value="" style="edgeStyle=none;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="284" y="482" as="sourcePoint" />
+            <mxPoint x="240" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="294" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R9qPwhMyAJb9IdS8MChw-25" value="" style="edgeStyle=none;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="R9qPwhMyAJb9IdS8MChw-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="431" y="482" as="sourcePoint" />
+            <mxPoint x="460" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="431" y="460" />
+              <mxPoint x="441" y="420" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
